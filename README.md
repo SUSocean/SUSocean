@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1>Hello!</h1>
+<h2>Welcome to my GitHub</h2>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SUSocean&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **SUSocean/SUSocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
