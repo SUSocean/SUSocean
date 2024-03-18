@@ -1,6 +1,7 @@
 <h1>Hello!</h1>
 <h3>Welcome to my GitHub</h3>
-![Leetcode Stats](https://leetcard.SUSocean/SUSocean)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SUSocean)
+
 <!--
 **SUSocean/SUSocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
